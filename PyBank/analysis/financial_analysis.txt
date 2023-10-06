@@ -1,0 +1,8 @@
+Budget Analysis Output
+----------------------------
+Total Count of Months: 86
+Total Sum of Changes: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits: Aug-16 ($1862002)
+Greatest Increase in Profits: Feb-14 ($-1825558)
+
